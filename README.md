@@ -78,6 +78,11 @@ Open it with Cisco Packet Tracer to test and verify.
 
 ---
 
+<p align="center">
+  <img src="images/advance-vlan.jpg" width="500" alt="Diagram" />
+</p>
+
+---
 ## 🚀 Motivation
 
 > "Push yourself, because no one else is going to do it for you."
