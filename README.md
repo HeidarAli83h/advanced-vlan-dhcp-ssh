@@ -77,7 +77,7 @@ Open it with Cisco Packet Tracer to test and verify.
 - Access via: `ssh -l admin 192.168.1.2`
 
 ---
-
+## 🖼️ Photos 
 <p align="center">
   <img src="images/advance-vlan.jpg" width="500" alt="Diagram" />
 </p>
