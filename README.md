@@ -92,3 +92,6 @@ Open it with Cisco Packet Tracer to test and verify.
 ## 👤 Author
 
 Created by **HeidarAli** – Future CCNP & DevNet Pro! 🌐
+
+> ⚠️ License Notice:
+> This project was previously licensed under [MIT](LICENSE). As of 2025-07-04, it is now licensed under [Apache 2.0](LICENSE).
